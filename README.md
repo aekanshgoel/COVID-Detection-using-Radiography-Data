@@ -32,7 +32,7 @@ https://drive.google.com/file/d/1bum9Sehb3AzUMHLhBMuowPKyr_PCrB3a/view?usp=shari
 <li>Artificial Neural Network
 
 # Prediction Metrics
-![alt text](https://github.com/aekanshgoel/COVID_Detection_using_Radiography_Data/blob/main/summary_plot.png)
+![alt text](https://github.com/aekanshgoel/COVID_Detection_using_Radiography_Data/blob/main/summary-plot.png)
 
 # Prediction Results
 ![alt text](https://github.com/aekanshgoel/COVID_Detection_using_Radiography_Data/blob/main/results.png)
